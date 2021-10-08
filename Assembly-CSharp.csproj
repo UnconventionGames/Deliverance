@@ -66,7 +66,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\BattleUIHandler.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\Scripts\CardBlueprint.cs" />
     <Compile Include="Assets\Scripts\CardDisplay.cs" />
+    <Compile Include="Assets\Scripts\CardEquipper.cs" />
     <Compile Include="Assets\Scripts\ChairInteractable.cs" />
     <Compile Include="Assets\Scripts\CombatUnit.cs" />
     <Compile Include="Assets\Scripts\GridMovement.cs" />
